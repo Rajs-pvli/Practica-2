@@ -9,7 +9,6 @@ function prettifyEffect(obj) {
     }).join(', ');
 }
 
-
 battle.setup({
     heroes: {
         
